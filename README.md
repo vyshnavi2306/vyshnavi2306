@@ -49,10 +49,12 @@ Here are some ideas to get you started:
 - GitLab & GitHub
 - VS Code
 - Postman
+- Vercel
 
 **Programming Languages**
 - Python
 - JavaScript
+- Java
 
 ---
 
